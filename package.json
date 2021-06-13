@@ -64,7 +64,8 @@
   },
   "peerDependencies": {
     "react": "*",
-    "react-native": "*"
+    "react-native": "*",
+    "react-native-webview":"*"
   },
   "dependencies": {
     "prop-types": "^15.6.2"
