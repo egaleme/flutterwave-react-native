@@ -64,11 +64,11 @@
   },
   "peerDependencies": {
     "react": "*",
-    "react-native": "*",
-    "react-native-webview":"*"
+    "react-native": "*"
   },
   "dependencies": {
-    "prop-types": "^15.6.2"
+    "prop-types": "^15.6.2",
+     "react-native-webview": "^8.0.3",
   },
   "config": {
     "commitizen": {
